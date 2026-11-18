@@ -1,0 +1,7 @@
+build.py
+content_projects.py
+DESIGN.md
+assets/avatar.jpg
+__pycache__/
+.DS_Store
+.claude/
